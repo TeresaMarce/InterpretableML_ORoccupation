@@ -20,6 +20,6 @@ A detailed explanation concerning the code organization can be found in *Code_or
 
 - The files have been organized in folders to make this repo tidier. Nevertheless, the code presented in the notebooks and 
 in the training files presumes the class files are in the same directory. 
-- The data is not provided, as it is under the data protection and privacy policy. included in our privacy notice for employees.
+- The data is not provided, as it is under the data protection and privacy policy.
 - To rerun the notebooks or the training files the path to the classes must be adapted.
  
