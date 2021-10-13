@@ -4,7 +4,7 @@
 
 **October 2021**
 
-**Teresa Marcelino, teresamarcelino@tecnico.ulisboa.pt**
+**Teresa Marcelino, teresamarcelino@tecnico.ulisboa.pt / teresamarcelino98@gmail.com **
 
 ## Thesis Abstract:
 
