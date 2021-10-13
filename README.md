@@ -14,7 +14,7 @@ Nowadays, the potential of using Machine Learning (ML) techniques to solve real-
 
 This repository contains all the code developed to produce the results presented in *Thesis.pdf*.
 
-A detailed explanation concerning the code organization can be found in *Code_organization.pdf*.
+A detailed explanation concerning the code organization can be found in *Apendix A*.
 
 ## Notes:
 
