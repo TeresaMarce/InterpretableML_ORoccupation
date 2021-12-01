@@ -12,7 +12,7 @@ Nowadays, the potential of using Machine Learning (ML) techniques to solve real-
 
 ## Repository content:
 
-This repository contains all the code developed to produce the results presented in *Thesis.pdf*.
+This repository contains all the code developed to produce the results presented in *Thesis_TeresaMarcelino.pdf*.
 
 A detailed explanation concerning the code organization can be found in *Apendix B*.
 
